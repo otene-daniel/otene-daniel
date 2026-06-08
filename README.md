@@ -1,9 +1,7 @@
 # Hi, I'm Daniel Otene 👋
 
-BTech Statistics, Federal University of Technology, Minna |
-MSc Financial Engineering candidate @ WorldQuant University |
-Building quantitative finance projects at the intersection of
-statistics, econometrics, and Python.
+BTech Statistics| MSc Financial Engineering candidate @ WorldQuant University |
+Building quantitative finance projects at the intersection of statistics, econometrics, and Python.
 
 ---
 
@@ -22,8 +20,6 @@ statistics, econometrics, and Python.
 ## 📊 Featured Projects
 | Project | Description |
 |---------|-------------|
-| 🍎 [Apple Excess Return Analysis](#) | Econometric decomposition of AAPL returns |
-| 🦠 [Covid-19 Dashboard](#) | Interactive data visualization of pandemic trends |
 | 🔍 [Fraud Detection System](#) | ML-based transaction anomaly detection |
 
 ## 📫 Connect With Me
