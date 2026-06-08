@@ -1,10 +1,33 @@
-- 👋 Hello dear, I’m @otene-daniel
-- 🌱 I’m a graduate of Statistics from Federal University of Technology, Minna-Niger state, Nigeria...
-- 👀 I’m interested in learning and building projects relating to Data Science...
-- 💞️ I’m looking to collaborate on Data Analytical projects ...
-- 📫 You can reach me on twitter https://twitter.com/otene_daniel
+# Hi, I'm Daniel Otene 👋
 
-<!---
-otene-daniel/otene-daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BTech Statistics, Federal University of Technology, Minna |
+MSc Financial Engineering candidate @ WorldQuant University |
+Building quantitative finance projects at the intersection of
+statistics, econometrics, and Python.
+
+---
+
+## 🔭 What I'm Working On
+- Excess return modeling of US equities (OLS · WLS · Robust Regression · Lasso)
+- Econometric analysis of FX pairs and macro predictors
+- Financial data pipelines using yfinance, FRED, and statsmodels
+
+## 🛠️ Tools & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+`Python` · `statsmodels` · `pandas` · `scikit-learn` · `yfinance` · `FRED` · `SQL`
+
+## 📊 Featured Projects
+| Project | Description |
+|---------|-------------|
+| 🍎 [Apple Excess Return Analysis](#) | Econometric decomposition of AAPL returns |
+| 🦠 [Covid-19 Dashboard](#) | Interactive data visualization of pandemic trends |
+| 🔍 [Fraud Detection System](#) | ML-based transaction anomaly detection |
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/
+otene-daniel-441b45209
+)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/otene_daniel)
