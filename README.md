@@ -19,7 +19,7 @@ Building quantitative finance, econometrics, machine learning, and financial dat
 ## 📊 Featured Projects
 | Project | Description |
 |---------|-------------|
-| 🔍 [Fraud Detection System](#) | ML-based transaction anomaly detection |
+| 🔍 [Fraud Detection System](https://github.com/otene-daniel/Fraud_Detection_System) | ML-based transaction anomaly detection |
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/
