@@ -19,7 +19,7 @@ Building quantitative finance, econometrics, machine learning, and financial dat
 | Project | Description |
 |---------|-------------|
 | 🔍 [Fraud Detection System](https://github.com/otene-daniel/Fraud_Detection_System) | ML-based transaction anomaly detection |
-| [📊 JAMB 2024 Performance Analysis](https://github.com/otene-daniel/Jamb-2024-Performance-Analysis) | Statistical analysis of rural vs urban academic performance disparities using 2024 JAMB data | Python · scipy · scikit-learn · seaborn |
+| [📊 JAMB 2024 Performance Analysis](https://github.com/otene-daniel/-Jamb-2024-Performance-Analysis) | Statistical analysis of rural vs urban student academic performance disparities using 2024 JAMB data | Python · scipy · scikit-learn · seaborn |
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/otene-daniel-441b45209/)
