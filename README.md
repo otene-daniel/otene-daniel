@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Otene 👋
 
-B.Tech Statistics Graduate | MSc Financial Engineering Candidate @ WorldQuant University
+B.Tech Statistics Graduate | MSc Financial Engineering Candidate @ WorldQuant University |
 Building quantitative finance, econometrics, machine learning, and financial data science projects using Python, statistics, and data-driven modeling.
 
 ## 🔭 What I'm Working On
